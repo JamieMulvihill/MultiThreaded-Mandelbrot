@@ -1,0 +1,19 @@
+﻿  CPUMAndelbrotTask.cpp
+m:\desktop\data-structures submission\datastructures coursework\graphicsprogramming\cpumandelbrottask.cpp(5): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Farm.cpp
+m:\desktop\data-structures submission\datastructures coursework\graphicsprogramming\farm.cpp(53): warning C4018: '<': signed/unsigned mismatch
+  Input.cpp
+  Main.cpp
+  MandelbrotTask.cpp
+m:\desktop\data-structures submission\datastructures coursework\graphicsprogramming\mandelbrottask.cpp(23): warning C4244: 'return': conversion from 'decimal' to 'float', possible loss of data
+  Scene.cpp
+m:\desktop\data-structures submission\datastructures coursework\graphicsprogramming\scene.cpp(44): warning C4244: '=': conversion from 'decimal' to 'int', possible loss of data
+m:\desktop\data-structures submission\datastructures coursework\graphicsprogramming\scene.cpp(109): warning C4838: conversion from 'int' to 'uint8_t' requires a narrowing conversion
+m:\desktop\data-structures submission\datastructures coursework\graphicsprogramming\scene.cpp(402): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Vector3.cpp
+  Generating code
+  846 of 861 functions (98.3%) were compiled, the rest were copied from previous compilation.
+    4 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GraphicsProgramming.vcxproj -> M:\Desktop\Data-Structures Submission\DataStructures CourseWork\Release\GraphicsProgramming.exe

@@ -1,0 +1,7 @@
+﻿  Farm.cpp
+  Scene.cpp
+\\stuhome\homedrive9$\1703169\desktop\lab 1 - graphicsprogramming\datastructures coursework\graphicsprogramming\scene.cpp(38): warning C4244: 'return': conversion from 'decimal' to 'float', possible loss of data
+\\stuhome\homedrive9$\1703169\desktop\lab 1 - graphicsprogramming\datastructures coursework\graphicsprogramming\scene.cpp(84): warning C4244: '=': conversion from 'decimal' to 'int', possible loss of data
+\\stuhome\homedrive9$\1703169\desktop\lab 1 - graphicsprogramming\datastructures coursework\graphicsprogramming\scene.cpp(281): warning C4838: conversion from 'int' to 'uint8_t' requires a narrowing conversion
+  Generating Code...
+  GraphicsProgramming.vcxproj -> \\StuHome\HomeDrive9$\1703169\Desktop\Lab 1 - GraphicsProgramming\DataStructures CourseWork\Debug\GraphicsProgramming.exe
